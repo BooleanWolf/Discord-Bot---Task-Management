@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "satao.db.elephantsql.com",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "triple_t",
+            "database": "wunbdsrr",
+            "username": "wunbdsrr",
+            "password": "wki9XH-zTjcs6EvHyHep0d_QGnlGwosm"
+        }
+    ]
+}
